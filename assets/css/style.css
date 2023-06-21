@@ -229,7 +229,8 @@ button, a { transition: var(--transition); }
 .header-name {
   /* width: 90px; */
   font-weight: bold;
-  font-size: x-large;
+  font-size: 25px;
+  font-family: var(--ff-nunito);
 }
 
 .header-contact { display: none; }
